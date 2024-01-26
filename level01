@@ -20,3 +20,5 @@
 
 
 - Pour conclure, vous affichez le contenu du fichier "SOLUTION.txt" avec cat SOLUTION.txt,il affiche le contenu spécifique ,la solution .
+
+code : home/level/01_choice_tree/blue/hats/grey/solution/patience/ cat SOLUTION.txt
