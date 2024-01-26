@@ -18,3 +18,7 @@
 
 - Enfin, vous appliquez une modification de permissions au fichier "README2.md" en utilisant chmod 751 README2.md et affichez le contenu du fichier modifié avec cat README2.md . La solution est dans le contenu .
 
+code : home/level/04_kwisatz/Cat README.nfo 
+home/level/04_kwisatz/cd ~
+level/04_kwisatz/chmod 751 README2.md 
+level/04_kwisatz/cat README2.md
