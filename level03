@@ -6,3 +6,5 @@
 
 
 - Vous explorez l'historique des commandes en affichant le contenu du fichier ".bash_history" avec la commande cat .bash_history . Vous trouvez la solution .
+
+code : home/level/03/cat .bash_history
