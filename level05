@@ -5,3 +5,5 @@
 
 
 - Enfin, en utilisant 'cat README.md', nous affichons le contenu du fichier README.md. Et vous trouvez la solution .
+
+code : home/level/05_privacy/cat README.md 
