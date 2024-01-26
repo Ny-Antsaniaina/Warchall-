@@ -8,3 +8,5 @@
 
 
 - Enfin, vous affichez le contenu du fichier ".solution" en utilisant la commande cat .solution tapez entrer . Et vous trouvez la solution .
+
+code : home/level/02/pord/ cat .solution
