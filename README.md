@@ -7,8 +7,8 @@ Pour commencer le challenge , il faut d'abord avoir un compte Warchall , si vous
 
 Vous allez connecter le compte shh sur le terminal 
 comme ça : 
-ssh -p 19198 user@warchall.net
- nyantsaniaina@warchall.net's password: <- Vous entrez le mot de passe içi , le mot de que vous avez entré quand vous avez créé un compte shh , et assurez vous que le nom utilisateur est en minuscule .
+ssh -p 19198 user@warchall.net .
+User@warchall.net's password: <- Vous entrez le mot de passe içi , le mot de que vous avez entré quand vous avez créé un compte shh , et assurez vous que le nom utilisateur est en minuscule .
 une fois vous entrez dans le compte , user@warchall:~$ et les challenge se trouve dans home/level , vous faite ça cd /home vous trouvez dans le répertoire home puis cd level .
 
 user@warchall:~$ home/level , un fois vous êtes arrivé sur ces dossiers vous tapez ls -al pour inspecter de manière détaillée tous les fichiers et répertoires à l'intérieur de ce répertoire , et puis vous voyez les répertoire qui a les challenges 
