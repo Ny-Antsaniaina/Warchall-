@@ -5,7 +5,7 @@ Pour commencer le challenge , il faut d'abord avoir un compte Warchall , si vous
 
 ## Dans le terminal
 
-Vous allez connecter le compte shh s le terminal 
+Vous allez connecter le compte shh sur le terminal 
 comme ça : 
 ssh -p 19198 user@warchall.net
  nyantsaniaina@warchall.net's password: <- Vous entrez le mot de passe içi , le mot de que vous avez entré quand vous avez créé un compte shh , et assurez vous que le nom utilisateur est en minuscule .
